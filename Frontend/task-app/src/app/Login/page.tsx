@@ -1,7 +1,4 @@
 export default function Page(){
-
-  
-
   return(
     <div className="flex justify-center w-full h-full bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 items-center">
       <div className="bg-white p-5 border-gray-400 w-full sm:w-1/2 md:w-1/3 2xl:w-1/4 border-2 rounded-lg  h-fit">
